@@ -33,7 +33,12 @@ body{
     flex: 1 1 30rem;
     flex-wrap: wrap;
 }
-
+/* link */
+.heading{
+    text-decoration: none;
+    color: black;
+    margin: 2rem 0;
+}
 /* content styling */
 /* sedan article */
 .sedan{
