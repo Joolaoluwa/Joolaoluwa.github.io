@@ -38,6 +38,8 @@ body{
     text-decoration: none;
     color: black;
     margin: 2rem 0;
+    font-size: 2rem;
+    display: inline-block;
 }
 /* content styling */
 /* sedan article */
