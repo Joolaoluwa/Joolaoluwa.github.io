@@ -34,12 +34,12 @@ body{
     flex-wrap: wrap;
 }
 /* link */
-.heading{
+a.heading{
     text-decoration: none;
     color: orangered;
     margin: .5rem 0;
-    font-size: 1rem;
-    display: inline-block;
+    font-size: 2rem;
+    /* display: inline-block; */
 }
 /* content styling */
 /* sedan article */
